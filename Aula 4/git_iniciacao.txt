@@ -1,0 +1,20 @@
+Aula 3 :
+comandos Git
+
+Para iniciar :git init 
+
+git config
+
+git config --global user.name "carladanieleferreira"
+
+git config --list
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Aulas de Lógica - Aula1 até Aula4"
+
+git log
